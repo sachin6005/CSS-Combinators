@@ -1,0 +1,20 @@
+body{
+    margin: 20px;
+    
+}
+article{
+    width: 300px;
+    height: 500px;
+    background-color: wheat;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+div p{
+    background-color: cadetblue;
+    font-size: 18px;
+    font-weight: bolder;
+}
+article h1{
+   background-color: coral;
+}
